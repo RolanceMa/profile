@@ -2,7 +2,7 @@
 
 <h1>Tetelo Rolance</h1>
 
-Introduction
+<h2>Introduction</h2>
 
 Hi there! I'm Tetelo Rolance, a full-stack web developer based in Johannesburg, South Africa. I am passionate about creating beautiful, efficient, and user-friendly web applications. In my free time, I enjoy hiking, reading, and experimenting with new technologies.
 
