@@ -32,19 +32,29 @@ Python
 Here are some of the projects I've worked on:
 
 Project 1: EDA data analysis.
+
 Project 2: Gender Classififcation.
+
 Project 3: Emergency vs Non-Emergency vehicle classification problem using Image Augmentation.
+
 Project 4: Emergency vs Non-Emergency vehicle classification problem.
+
 Project 5: Gender Classification using pre-trained models
 
 Project 6: Identify the Sentiments
+
 Project 7: Emergency vs Non-Emergency vehicle Urban Sound Classification.
+
 Project 8: Dogs&Cats Classification problem.
+
 Project 9: E-commerce website.
+
 Project 10: Heart Disease Prediction flask web application
 
 Project 11: House Price Prediction flask Web Application.
+
 Project 12: Forest Fire Prediction flask web application.
+
 Project 13: Basic Chatbot flask web application
 
 
