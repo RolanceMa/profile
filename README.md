@@ -1,6 +1,6 @@
 # profile
-Describing my profile
-Tetelo Rolance
+
+#Tetelo Rolance
 
 Introduction
 
