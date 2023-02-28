@@ -31,5 +31,5 @@ Education
 Bachelor of Science in Computer Science, University of Johannesburg (2017 - 2020)
 Full-Stack Web Development Bootcamp, [Online Course Provider] (2021)
 Contact
-
+c
 You can reach me via email at tetelo.rolance@gmail.com or connect with me on LinkedIn.
