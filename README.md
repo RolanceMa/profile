@@ -61,7 +61,8 @@ Project 13: Basic Chatbot flask web application
 
 <h1>Experience</h1>
 
-Intern at 4IR LAB Company (August 2022 - Present):My responsibility was to complete the duties and projects assigned to me by my mentor, including the web development and AI&ML projects.
+Intern at 4IR LAB Company (August 2022 - Present):
+My responsibility was to complete the duties and projects assigned to me by my mentor, including the web development and AI&ML projects.
 
 <h1>EDUCATION</h1>
 National Diploma in Computer Systems Engineering,Tshwane University of Technology(2018- 2022)
